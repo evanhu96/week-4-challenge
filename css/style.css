@@ -1,0 +1,32 @@
+
+
+form p{
+    display: inline-block;
+
+}
+
+button{
+    display: flex;
+    /* align-items: center; */
+    background-color: blueviolet;
+    margin-top: 10px;
+    margin-left: 0%;
+    border-radius: 20%;
+    cursor: pointer;
+  
+}
+
+header div{
+    display: flex;
+    justify-content: space-between;
+}
+#time{
+    justify-content: right;
+    text-align: right;
+    margin-right: -1200px;
+}
+#quizSection{
+    height: 500px;
+    width: 400px;
+    margin: auto;
+}
